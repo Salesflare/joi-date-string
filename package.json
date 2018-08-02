@@ -9,7 +9,10 @@
   ],
   "main": "lib/index.js",
   "keywords": [
-    "joi"
+    "joi",
+    "extension",
+    "date",
+    "date string"
   ],
   "devDependencies": {
     "coveralls": "^3.0.0",
